@@ -1,5 +1,5 @@
 import React from 'react';
-
+ 
 export default function Hero() {
   return (
     <section className="relative min-h-[92vh] pt-32 pb-20 flex items-center overflow-hidden">

@@ -20,7 +20,7 @@ const REVIEWS = [
     rating: 5
   }
 ];
-
+ 
 export default function Testimonials() {
   const [currentSlide, setCurrentSlide] = useState(0);
 

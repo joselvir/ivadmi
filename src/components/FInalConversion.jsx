@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+ 
 const FAQS = [
   {
     q: "Are your cleaning products safe for natural stone and teak wood?",

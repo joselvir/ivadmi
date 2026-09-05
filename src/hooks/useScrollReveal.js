@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-
 export function useScrollReveal() {
   useEffect(() => {
     const observerCallback = (entries, observer) => {

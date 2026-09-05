@@ -1,5 +1,5 @@
 import React from 'react';
-
+ 
 export default function Footer() {
   return (
     <footer className="bg-[#2f312d] text-[#f7f3ee] py-16">

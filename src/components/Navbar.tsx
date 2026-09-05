@@ -1,5 +1,5 @@
 import React from 'react';
-
+ 
 export default function Navbar() {
   return (
     <div className="hero-nav-wrap fixed top-5 left-0 right-0 z-[9999] px-4">

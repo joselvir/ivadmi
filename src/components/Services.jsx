@@ -1,5 +1,5 @@
 import React from 'react';
-
+ 
 const SERVICES_DATA = [
   {
     title: "Luxury Villa Maintenance",

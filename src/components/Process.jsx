@@ -1,5 +1,5 @@
 import React from 'react';
-
+ 
 export default function Process() {
   return (
     <section id="process" className="py-24 bg-[#f7f3ee] relative overflow-hidden">
